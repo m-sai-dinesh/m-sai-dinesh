@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sai Dinesh</h1>
-<h3 align="center">A passionate Full Stack Developer & Competitive Programmer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d3561,100:1a1b27&height=120&section=header" width="100%" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Dinesh;Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-sai-dinesh&label=Profile+Views&color=70a5fd&style=flat" alt="profile views" />
+</p>
 
 <br/>
 
@@ -11,11 +18,15 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/m-sai-dinesh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="36" width="36" style="margin-right: 12px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://instagram.com/sai_dineshhhhh" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="36" width="36" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://sai-dinesh.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -125,19 +136,19 @@
 
 <p align="left">
   <a href="https://www.codechef.com/users/saidineshm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="44" height="44" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.hackerrank.com/saidineshm24" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" alt="HackerRank" width="44" height="44" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://codeforces.com/profile/msaidiness" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="Codeforces" width="44" height="44" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.leetcode.com/saidineshm" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="LeetCode" width="44" height="44" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
@@ -147,13 +158,34 @@
 
 <br/>
 
-<h3 align="left">🌐 Portfolio</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<p>
-  Explore my projects, portfolio, and more:<br/><br/>
-  <a href="https://sai-dinesh.dev" target="_blank">
-    <img src="https://img.shields.io/badge/sai--dinesh.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-sai-dinesh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sai-dinesh&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=m-sai-dinesh&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <br/>
+
+---
+
+<br/>
+
+<h3 align="left">🎖️ Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m-sai-dinesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d3561,100:1a1b27&height=100&section=footer" width="100%" />
