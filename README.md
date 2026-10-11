@@ -1,147 +1,148 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2040,100:0d1117&height=120&section=header" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Dinesh;Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Dinesh;Backend+%26+Full+Stack+Developer;Node.js+%7C+Express+%7C+MongoDB+%7C+React;Building+scalable+APIs+and+serverless+systems;LeetCode+Max+Rating+1744" alt="Typing SVG" />
 </h1>
 
-<table border="0" align="center" width="90%">
-<tr>
-<td width="2" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3a4a8a&height=1200&width=2" width="2" />
-</td>
-<td>
-
----
-
-<h3 align="center">🔗 Connect with me</h3>
+<p align="center">
+  B.Tech CSE @ VNR VJIET (2024 – 2028) &nbsp;|&nbsp; CGPA 9.15 / 10 &nbsp;|&nbsp; Hyderabad, India
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/m-sai-dinesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sai_dineshhhhh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://sai-dinesh.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://sai-dinesh.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/m-sai-dinesh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:saidineshm24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/sai_dineshhhhh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+## 👨‍💻 About Me
 
-<h4 align="center">Programming Languages</h4>
+I'm a computer science student focused on **backend engineering**: designing REST APIs, authentication flows, serverless backends, and the system design behind them. I build full-stack products on the MERN stack, and I practice data structures and algorithms through competitive programming.
 
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="58" height="58" />
-  </a>
+- 🔧 Interned on **web and backend systems**: chunked video upload pipelines at DRDO, and a serverless AI resume platform at Smart Resume Tailor
+- 🏆 **TCS Tech Fest winner**, **Innovathon national finalist**, **2× Smart India Hackathon college-level qualifier**
+- 🧮 LeetCode max rating **1744**, CodeChef **1446**, **350+** problems solved
+- 🎓 Planning to pursue an MS abroad
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,c,py&perline=8" alt="Languages" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<h4 align="center">Frontend</h4>
+**Backend & APIs**
 
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="58" height="58" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&perline=8" alt="Backend" />
 </p>
 
-<h4 align="center">Backend</h4>
+`REST APIs` · `JWT Authentication` · `CORS` · `Serverless (Firebase Cloud Functions)` · `API Proxying`
 
-<p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="58" height="58" />
-  </a>
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=8" alt="Databases" />
 </p>
 
-<h4 align="center">Databases</h4>
+`MongoDB` · `Mongoose ODM` · `PostgreSQL`
 
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="58" height="58" />
-  </a>
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=8" alt="Frontend" />
 </p>
 
-<h4 align="center">Tools</h4>
+**Cloud, DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,linux,vercel,figma&perline=8" alt="Tools" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
+
+**CS Fundamentals**
+
+`Data Structures & Algorithms` · `System Design` · `Object-Oriented Programming` · `DBMS`
+
+---
+
+## 💼 Experience
+
+### Web Developer Intern · DRDO <sub>(Remote, Jul 2026 – Aug 2026)</sub>
+- Designed and built the web interface for a video de-weathering system, covering video upload, processing status, and result delivery
+- Implemented **chunked video upload** to handle large files reliably
+- Developed the end-to-end processing pipeline connecting the upload layer to the processing service, with decoupled upload and processing stages
+
+### Software Development Intern · Smart Resume Tailor <sub>(Remote, Mar 2026 – Jul 2026)</sub>
+- Architected a **serverless** resume tailoring backend on **Firebase Cloud Functions** with Gemini AI API integration, benchmarking token usage and latency across GPT-4o-mini and DeepSeek V3
+- Engineered a **Chrome Extension** with a multi-step agent pipeline (regex extraction followed by LLM batch mapping) that auto-fills job application forms
+- Implemented a secure backend proxy with **JWT authentication** to keep API keys off the client, and configured **CORS** across multiple deployment origins
+
+---
+
+## 🚀 Projects
+
+### 🏦 [BranchIQ: Bank Branch Load & Queue Optimization](https://github.com/vigneshrao77/Tcs_hack)
+`Python` `Sarvam AI` `Gemini AI API`
+
+Built for the TCS Hackathon. Forecasts branch footfall and service demand, detects operational bottlenecks from queue and service data, and recommends staff allocation and customer redirection. Uses Sarvam AI for voice interaction and Gemini AI for decision support.
+
+### 🏋️ GymBuddy AI Platform
+`Python` `React` `MediaPipe` `OpenCV` `GitHub Actions`
+
+Full-stack fitness app with a computer vision pipeline that processes 33+ body keypoints for real-time form validation and rep tracking. Python REST APIs handle authentication, workout analytics, and progress tracking for a React dashboard. CI/CD with GitHub Actions cut the release cycle by 40%.
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Details |
+|---|---|
+| 🥇 **TCS Tech Fest** | Winner |
+| 🚀 **Innovathon** | National finalist. Delivered a working web prototype in 24 hours |
+| 🇮🇳 **Smart India Hackathon** | 2× college-level qualifier |
+
+---
+
+## 🧮 Coding Profile
 
 <p align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="58" height="58" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="58" height="58" />
-  </a>
+  <a href="https://www.leetcode.com/saidineshm" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1744%20max-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/saidineshm" target="_blank"><img src="https://img.shields.io/badge/CodeChef-1446-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/msaidiness" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.hackerrank.com/saidineshm24" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 ---
 
-<h3 align="center">🏆 Competitive Programming</h3>
+## 🎯 Extra-Curricular
+
+**Developer · Turing Hut**: Helped organize coding contests by setting up the contest environment and implementing contest-integrity controls (tab-switch, copy-paste, and other browser-level blockers) to keep live rounds fair.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.codechef.com/users/saidineshm" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/saidineshm24" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/msaidiness" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/saidineshm" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=m-sai-dinesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sai-dinesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=m-sai-dinesh&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
 
-</td>
-<td width="2" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3a4a8a&height=1200&width=2" width="2" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>Open to backend and full-stack opportunities. Feel free to reach out.</i>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2040,100:0d1117&height=100&section=footer" width="100%" />
