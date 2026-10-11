@@ -1,30 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=SAI%20DINESH%20M&fontSize=60&fontColor=00f0ff&animation=twinkling&fontAlignY=40&desc=sudo%20make%20me%20a%20sandwich%20%26%26%20ship%20it&descSize=18&descAlignY=62&descColor=ff2e97" width="100%" alt="header" />
-
 <div align="center">
 
-<a href="https://github.com/m-sai-dinesh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2800&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=820&height=60&lines=Compiling+coffee+into+REST+APIs;I+don't+write+bugs%2C+I+write+undocumented+features;Node.js+%2B+Express+%2B+MongoDB+%3D+my+love+language;Optimizing+O(n%C2%B2)+into+O(why+did+I+do+that)" alt="typing" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Sai Dinesh M // Backend Engineer" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=m-sai-dinesh&label=MORTALS+WHO+VISITED&color=ff2e97&labelColor=0d1117&style=for-the-badge" alt="views" />
-<a href="https://github.com/m-sai-dinesh?tab=followers"><img src="https://img.shields.io/github/followers/m-sai-dinesh?label=DISCIPLES&logo=github&logoColor=00f0ff&color=00f0ff&labelColor=0d1117&style=for-the-badge" alt="followers" /></a>
+<img src="https://hits.sh/github.com/m-sai-dinesh/m-sai-dinesh.svg?style=for-the-badge&label=MORTALS%20WHO%20VISITED&color=ff2e97&labelColor=0d1117" alt="Profile views" />
+<a href="https://github.com/m-sai-dinesh?tab=followers"><img src="https://img.shields.io/github/followers/m-sai-dinesh?label=DISCIPLES&logo=github&logoColor=00f0ff&color=00f0ff&labelColor=0d1117&style=for-the-badge" alt="Followers" /></a>
+<a href="https://github.com/m-sai-dinesh?tab=repositories"><img src="https://img.shields.io/github/stars/m-sai-dinesh?label=STARS%20HARVESTED&logo=github&logoColor=ffca28&color=ffca28&labelColor=0d1117&style=for-the-badge" alt="Stars" /></a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=68a063" alt="Node.js" />
 <img src="https://img.shields.io/badge/-Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" />
 <img src="https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47a248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4f9bd9" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
 <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
 <img src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00a8e8" alt="C++" />
 
+<br/><br/>
+
+<img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, stack, coding ratings" />
+
 </div>
 
----
+<br/>
 
-## 🧬 THE MANIFESTO
+<img src="assets/banner-manifesto.svg" width="100%" alt="The Manifesto" />
 
 I don't debug code. I interrogate it until it confesses.
 
@@ -38,13 +40,11 @@ I clear LeetCode problems the way other people clear their notifications: **max 
 - Cannot exit: Vim (working on it)
 ```
 
-### 🎯 CURRENT MISSION
+> **CURRENT MISSION:** Teaching my toaster to authenticate users with JWT, then rate-limiting it so it stops burning my bread.
 
-> Teaching my toaster to authenticate users with JWT, then rate-limiting it so it stops burning my bread.
+<br/>
 
----
-
-## 🤖 THE AUTONOMOUS COMMAND CENTER
+<img src="assets/banner-command.svg" width="100%" alt="Autonomous Command Center" />
 
 <table border="0" width="100%">
   <tr>
@@ -77,9 +77,9 @@ I clear LeetCode problems the way other people clear their notifications: **max 
   </tr>
 </table>
 
----
+<br/>
 
-## ⚔️ THE GRID OF POWER
+<img src="assets/banner-arsenal.svg" width="100%" alt="Digital Weaponry" />
 
 <table border="0" width="100%">
   <tr>
@@ -132,33 +132,45 @@ I clear LeetCode problems the way other people clear their notifications: **max 
   </tr>
 </table>
 
----
+<br/>
 
-## 📊 THE MYTHICAL STATS BLOCK
+<img src="assets/banner-velocity.svg" width="100%" alt="Code Velocity" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-sai-dinesh&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00f0ff&line=ff2e97&point=ffffff&area_color=00f0ff&custom_title=Contribution%20Graph%20of%20Doom" width="100%" alt="activity" />
+<img src="https://raw.githubusercontent.com/m-sai-dinesh/m-sai-dinesh/output/snake-neon.svg" width="100%" alt="Contribution snake" />
+
+<br/>
+
+<img src="assets/banner-stats.svg" width="100%" alt="Mythical Stats" />
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=m-sai-dinesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2e97&text_color=c0caf5" width="100%" alt="stats" /></td>
-    <td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sai-dinesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c0caf5" width="100%" alt="languages" /></td>
+    <td width="50%" align="center"><img src="profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub stats" /></td>
+    <td width="50%" align="center"><img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="Most committed languages" /></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="Repos per language" /></td>
+    <td width="50%" align="center"><img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" alt="Productive time" /></td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=m-sai-dinesh&theme=tokyonight&hide_border=true&background=0D1117&stroke=ff2e97&ring=00f0ff&fire=ff2e97&currStreakNum=00f0ff&sideNums=c0caf5&currStreakLabel=00f0ff&sideLabels=c0caf5&dates=7aa2f7" width="100%" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=m-sai-dinesh&theme=tokyonight&hide_border=true&background=0D1117&stroke=ff2e97&ring=00f0ff&fire=ff2e97&currStreakNum=00f0ff&sideNums=c0caf5&currStreakLabel=00f0ff&sideLabels=c0caf5&dates=7aa2f7" width="100%" alt="GitHub streak" />
 
 <p align="center">
   <a href="https://www.leetcode.com/saidineshm"><img src="https://img.shields.io/badge/LEETCODE-1744_MAX-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116&color=ffa116" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/users/saidineshm"><img src="https://img.shields.io/badge/CODECHEF-1446-0d1117?style=for-the-badge&logo=codechef&logoColor=c9a37e&color=c9a37e" alt="CodeChef" /></a>
   <a href="https://codeforces.com/profile/msaidiness"><img src="https://img.shields.io/badge/CODEFORCES-PROFILE-0d1117?style=for-the-badge&logo=codeforces&logoColor=1f8acb&color=1f8acb" alt="Codeforces" /></a>
+  <a href="https://www.hackerrank.com/saidineshm24"><img src="https://img.shields.io/badge/HACKERRANK-PROFILE-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2ec866&color=2ec866" alt="HackerRank" /></a>
 </p>
 
----
+<br/>
+
+<img src="assets/banner-connect.svg" width="100%" alt="Terminal Connections" />
 
 <p align="center">
   <a href="https://linkedin.com/in/m-sai-dinesh"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&color=0a66c2" alt="LinkedIn" /></a>
   <a href="mailto:saidineshm24@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ff2e97&color=ff2e97" alt="Email" /></a>
   <a href="https://sai-dinesh.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00f0ff&color=00f0ff" alt="Portfolio" /></a>
+  <a href="https://instagram.com/sai_dineshhhhh"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&color=e4405f" alt="Instagram" /></a>
 </p>
 
 <details>
@@ -197,4 +209,4 @@ logout
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="exit 0" />
