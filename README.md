@@ -1,188 +1,283 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=000000&text=SAI%20DINESH%20M&fontColor=ffffff&fontSize=62&fontAlignY=42&desc=BACKEND%20ENGINEER&nbsp;%2F%2F&nbsp;MERN&nbsp;%2F%2F&nbsp;SYSTEM%20DESIGN&descColor=ffffff&descAlignY=64&descSize=18" width="100%" alt="Sai Dinesh M, Backend Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:0d0d0d,45:ff5a1f,100:ffb400&text=Sai%20Dinesh%20M&fontColor=f5f0e8&fontSize=64&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20MERN%20%E2%80%A2%20System%20Design&descColor=0d0d0d&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Sai Dinesh M, Backend Engineer" />
 
 <a href="https://github.com/m-sai-dinesh">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=%3E+I+interrogate+code+until+it+confesses;%3E+Stateless+APIs.+Signed+JWTs.+Zero+excuses.;%3E+LeetCode+1744+max+%7C+350%2B+solved;%3E+Chrome+extensions+%7C+Serverless+%7C+Video+pipelines" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=000000&center=true&vCenter=true&width=760&lines=%3E+I+interrogate+code+until+it+confesses;%3E+Stateless+APIs.+Signed+JWTs.+Zero+excuses.;%3E+LeetCode+1744+max+%7C+350%2B+solved;%3E+Chrome+extensions+%7C+Serverless+%7C+Video+pipelines" alt="Typing tagline" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=900&color=FF5A1F&center=true&vCenter=true&width=820&height=50&lines=I+interrogate+code+until+it+confesses;Stateless+APIs.+Signed+JWTs.+Zero+excuses.;LeetCode+1744+max+%E2%80%A2+350%2B+problems+solved;Chrome+extensions+%E2%80%A2+Serverless+%E2%80%A2+Video+pipelines" alt="Typing tagline" />
 </a>
 
 <br/><br/>
 
-<img src="https://hits.sh/github.com/m-sai-dinesh/m-sai-dinesh.svg?style=for-the-badge&label=VIEWS&color=ffffff&labelColor=000000" alt="Profile views" />
+<img src="https://hits.sh/github.com/m-sai-dinesh/m-sai-dinesh.svg?style=for-the-badge&label=VISITORS&color=ff5a1f&labelColor=1a1a1a" alt="Visitors" />
 &nbsp;&nbsp;
-<a href="https://github.com/m-sai-dinesh?tab=followers"><img src="https://img.shields.io/github/followers/m-sai-dinesh?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=ffffff&labelColor=000000" alt="Followers" /></a>
+<a href="https://github.com/m-sai-dinesh?tab=followers"><img src="https://img.shields.io/github/followers/m-sai-dinesh?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=ff5a1f&color=ffb400&labelColor=1a1a1a" alt="Followers" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/m-sai-dinesh?tab=repositories"><img src="https://img.shields.io/github/stars/m-sai-dinesh?style=for-the-badge&label=STARS&logo=github&logoColor=white&color=ffffff&labelColor=000000" alt="Stars" /></a>
+<a href="https://github.com/m-sai-dinesh?tab=repositories"><img src="https://img.shields.io/github/stars/m-sai-dinesh?style=for-the-badge&label=STARS&logo=github&logoColor=ff5a1f&color=ffb400&labelColor=1a1a1a" alt="Stars" /></a>
 
 <br/><br/>
 
-<a href="https://sai-dinesh.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://sai-dinesh.dev"><img src="https://img.shields.io/badge/Portfolio-FF5A1F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/m-sai-dinesh"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/m-sai-dinesh"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FF5A1F" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:saidineshm24@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:saidineshm24@gmail.com"><img src="https://img.shields.io/badge/Email-FF5A1F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;&nbsp;
+<a href="https://www.leetcode.com/saidineshm"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFB400" alt="LeetCode" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff5a1f,100:ffb400" width="100%" alt="" />
 
 </div>
 
 <br/>
 
-## ▌ ABOUT ME
+## ⚡ &nbsp;whoami
+
+```ts
+type Engineer = {
+  name: string;
+  role: string;
+  stack: string[];
+  obsessions: string[];
+  leetcode: { max: number; solved: string };
+  poweredBy: string[];
+  currentMission: string;
+};
+
+const sai: Engineer = {
+  name: "Sai Dinesh M",
+  role: "Backend Engineer (third-year CS student by title)",
+  stack: ["Node.js", "Express", "MongoDB", "PostgreSQL", "React", "Docker"],
+  obsessions: ["REST APIs", "JWT auth", "System design", "Serverless"],
+  leetcode: { max: 1744, solved: "350+" },
+  poweredBy: ["coffee", "stubbornness", "one suspiciously well-behaved Postman collection"],
+  currentMission: "Teach my toaster JWT auth, then rate-limit it so it stops burning my bread",
+};
+
+// console.log("temporary measure");  <- three sprints and counting
+```
+
+<br/>
 
 I don't debug code. I interrogate it until it confesses.
 
-Third-year CS student by title, backend engineer by obsession. My APIs are stateless, my JWTs are signed, my CORS errors are somebody else's fault, and my `console.log` statements are strictly a "temporary measure" that has now lasted three sprints.
+My APIs are stateless, my JWTs are signed, my CORS errors are somebody else's fault, and my `console.log` statements are strictly a "temporary measure". I clear LeetCode problems the way other people clear their notifications, and my GitHub Actions run so reliably that they're the only thing in my life with a 100% pass rate.
 
-I clear LeetCode problems the way other people clear their notifications: **max rating 1744, 350+ solved**. My GitHub Actions run so reliably that they're the only thing in my life with a 100% pass rate.
+<div align="center">
 
-<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=2a2a2a&quote_color=f5f0e8&author_color=ff5a1f" alt="Random dev quote" />
 
-| &nbsp;&nbsp;◼&nbsp;&nbsp;STATUS | &nbsp;&nbsp;◻&nbsp;&nbsp;DETAILS |
-|:--|:--|
-| **WORKING ON** | Teaching my toaster to authenticate users with JWT, then rate-limiting it so it stops burning my bread |
-| **FLUENT IN** | Node.js &nbsp;/&nbsp; Express &nbsp;/&nbsp; MongoDB &nbsp;/&nbsp; REST &nbsp;/&nbsp; JWT &nbsp;/&nbsp; Docker &nbsp;/&nbsp; System Design |
-| **COMPETITIVE** | LeetCode 1744 max &nbsp;/&nbsp; CodeChef 1446 |
-| **POWERED BY** | Coffee, stubbornness, and one suspiciously well-behaved Postman collection |
+</div>
 
 <br/>
 
-## ▌ WHAT I'VE SHIPPED
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb400,100:ff5a1f" width="100%" alt="" /></div>
+
+<br/>
+
+## 🚀 &nbsp;What I've Shipped
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>▓ JOB-FORM AUTOFILL</h3>
+      <h3>🤖 &nbsp;Job-Form Autofill</h3>
       A Chrome extension that fills job applications by itself, powered by the Gemini API.
       <br/><br/>
-      <code>Chrome Extension</code> <code>Gemini API</code> <code>Node.js</code>
+      <img src="https://img.shields.io/badge/Chrome_Extension-1A1A1A?style=flat-square&logo=googlechrome&logoColor=FF5A1F" alt="Chrome Extension" />
+      <img src="https://img.shields.io/badge/Gemini_API-1A1A1A?style=flat-square&logo=googlegemini&logoColor=FF5A1F" alt="Gemini API" />
+      <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=nodedotjs&logoColor=FF5A1F" alt="Node.js" />
     </td>
     <td width="33%" valign="top">
-      <h3>▓ CHUNKED VIDEO UPLOAD</h3>
+      <h3>🎬 &nbsp;Chunked Video Upload</h3>
       A resumable, chunked video upload pipeline built for large files and flaky networks.
       <br/><br/>
-      <code>Express</code> <code>Cloudinary</code> <code>MongoDB</code>
+      <img src="https://img.shields.io/badge/Express-1A1A1A?style=flat-square&logo=express&logoColor=FF5A1F" alt="Express" />
+      <img src="https://img.shields.io/badge/Cloudinary-1A1A1A?style=flat-square&logo=cloudinary&logoColor=FF5A1F" alt="Cloudinary" />
+      <img src="https://img.shields.io/badge/MongoDB-1A1A1A?style=flat-square&logo=mongodb&logoColor=FF5A1F" alt="MongoDB" />
     </td>
     <td width="33%" valign="top">
-      <h3>▓ SERVERLESS BACKENDS</h3>
-      Stateless, signed-token APIs deployed serverless and kept alive by CI.
+      <h3>☁️ &nbsp;Serverless Backends</h3>
+      Stateless, signed-token APIs deployed serverless and kept honest by CI.
       <br/><br/>
-      <code>JWT</code> <code>Serverless</code> <code>GitHub Actions</code>
+      <img src="https://img.shields.io/badge/JWT-1A1A1A?style=flat-square&logo=jsonwebtokens&logoColor=FF5A1F" alt="JWT" />
+      <img src="https://img.shields.io/badge/Serverless-1A1A1A?style=flat-square&logo=googlecloud&logoColor=FF5A1F" alt="Serverless" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-1A1A1A?style=flat-square&logo=githubactions&logoColor=FF5A1F" alt="GitHub Actions" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-## ▌ TECH STACK
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff5a1f,100:ffb400" width="100%" alt="" /></div>
+
+<br/>
+
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-**[ LANGUAGES ]**
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
+<b>LANGUAGES</b>
 <br/><br/>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/javascript/FF5A1F" height="46" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/openjdk/FF5A1F" height="46" alt="Java" /><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/cplusplus/FF5A1F" height="46" alt="C++" /><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/c/FF5A1F" height="46" alt="C" /><br/><sub><b>C</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/python/FF5A1F" height="46" alt="Python" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/postgresql/FF5A1F" height="46" alt="SQL" /><br/><sub><b>SQL</b></sub></td>
+  </tr>
+</table>
 
-**[ BACKEND &nbsp;/&nbsp; FRONTEND ]**
+<br/>
 
-<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
+<b>BACKEND &nbsp;•&nbsp; FRONTEND</b>
 <br/><br/>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/nodedotjs/FFB400" height="46" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/express/FFB400" height="46" alt="Express" /><br/><sub><b>Express</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/react/FFB400" height="46" alt="React" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/nextdotjs/FFB400" height="46" alt="Next.js" /><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/tailwindcss/FFB400" height="46" alt="Tailwind CSS" /><br/><sub><b>Tailwind</b></sub></td>
+  </tr>
+</table>
 
-**[ DATABASES ]**
+<br/>
 
-<img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
+<b>DATA &nbsp;•&nbsp; CLOUD &nbsp;•&nbsp; TOOLS</b>
 <br/><br/>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/mongodb/FF5A1F" height="46" alt="MongoDB" /><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/postgresql/FF5A1F" height="46" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/docker/FF5A1F" height="46" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/firebase/FF5A1F" height="46" alt="Firebase" /><br/><sub><b>Firebase</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/vercel/FF5A1F" height="46" alt="Vercel" /><br/><sub><b>Vercel</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/render/FF5A1F" height="46" alt="Render" /><br/><sub><b>Render</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/githubactions/FF5A1F" height="46" alt="GitHub Actions" /><br/><sub><b>Actions</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/postman/FF5A1F" height="46" alt="Postman" /><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/cloudinary/FF5A1F" height="46" alt="Cloudinary" /><br/><sub><b>Cloudinary</b></sub></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-**[ CLOUD &nbsp;/&nbsp; TOOLS ]**
+<br/>
 
-<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/RENDER-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-
+<b>ALSO WORKING WITH</b>
 <br/><br/>
-
-**[ ALSO WORKING WITH ]**
-
-<img src="https://img.shields.io/badge/JWT%20AUTH-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
-<img src="https://img.shields.io/badge/GEMINI%20API-000000?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
-<img src="https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/CLOUDINARY-000000?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/CHROME%20EXTENSIONS-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
-<img src="https://img.shields.io/badge/SERVERLESS-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Serverless" />
+<table>
+  <tr>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/jsonwebtokens/FFB400" height="56" alt="JWT" /><br/><sub><b>JWT Auth</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/googlegemini/FFB400" height="56" alt="Gemini API" /><br/><sub><b>Gemini API</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/opencv/FFB400" height="56" alt="OpenCV" /><br/><sub><b>OpenCV</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/googlechrome/FFB400" height="56" alt="Chrome Extensions" /><br/><sub><b>Chrome Extensions</b></sub></td>
+    <td align="center" width="130"><img src="https://cdn.simpleicons.org/googlecloud/FFB400" height="56" alt="Serverless" /><br/><sub><b>Serverless</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-## ▌ GITHUB STATS
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb400,100:ff5a1f" width="100%" alt="" /></div>
+
+<br/>
+
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m-sai-dinesh&show_icons=true&hide_border=false&border_color=3d3d3d&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=d4d4d4&ring_color=ffffff" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=m-sai-dinesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=2a2a2a&border_radius=12&bg_color=0d1117&title_color=ff5a1f&icon_color=ffb400&text_color=f5f0e8&ring_color=ff5a1f" height="185" alt="GitHub stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sai-dinesh&layout=compact&hide_border=false&border_color=3d3d3d&bg_color=000000&title_color=ffffff&text_color=d4d4d4" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sai-dinesh&layout=donut&langs_count=8&hide_border=false&border_color=2a2a2a&border_radius=12&bg_color=0d1117&title_color=ff5a1f&text_color=f5f0e8" height="185" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=m-sai-dinesh&hide_border=false&border=3d3d3d&background=000000&stroke=3d3d3d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=a3a3a3&dates=737373" width="100%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=m-sai-dinesh&border_radius=12&background=0D1117&border=2A2A2A&stroke=2A2A2A&ring=FF5A1F&fire=FFB400&currStreakNum=FF5A1F&sideNums=F5F0E8&currStreakLabel=FFB400&sideLabels=A8A29E&dates=78716C" width="100%" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-sai-dinesh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&hide_border=true&radius=10" width="100%" alt="Contribution activity graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=m-sai-dinesh&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" width="100%" alt="GitHub trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-sai-dinesh&custom_title=Contribution%20Activity&bg_color=0d1117&color=ff5a1f&line=ff5a1f&point=ffb400&area=true&area_color=ff5a1f&title_color=ffb400&hide_border=true&radius=12" width="100%" alt="Contribution activity graph" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/m-sai-dinesh/m-sai-dinesh/output/snake-ember.svg" width="100%" alt="Contribution snake" />
 
 </div>
 
 <br/>
 
-## ▌ COMPETITIVE PROGRAMMING
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff5a1f,100:ffb400" width="100%" alt="" /></div>
+
+<br/>
+
+## 🏆 &nbsp;Competitive Programming
 
 <div align="center">
 
-<a href="https://www.leetcode.com/saidineshm"><img src="https://img.shields.io/badge/LEETCODE-1744%20MAX-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<img src="https://leetcard.jacoblin.cool/saidineshm?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" alt="LeetCode stats" />
+
+<br/><br/>
+
+<a href="https://www.leetcode.com/saidineshm"><img src="https://img.shields.io/badge/LeetCode-1744_MAX-FF5A1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 &nbsp;&nbsp;
-<a href="https://www.codechef.com/users/saidineshm"><img src="https://img.shields.io/badge/CODECHEF-1446-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://www.codechef.com/users/saidineshm"><img src="https://img.shields.io/badge/CodeChef-1446-1A1A1A?style=for-the-badge&logo=codechef&logoColor=FFB400" alt="CodeChef" /></a>
 &nbsp;&nbsp;
-<a href="https://codeforces.com/profile/msaidiness"><img src="https://img.shields.io/badge/CODEFORCES-PROFILE-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://codeforces.com/profile/msaidiness"><img src="https://img.shields.io/badge/Codeforces-Profile-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=FF5A1F" alt="Codeforces" /></a>
 &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/saidineshm24"><img src="https://img.shields.io/badge/HACKERRANK-PROFILE-000000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://www.hackerrank.com/saidineshm24"><img src="https://img.shields.io/badge/HackerRank-Profile-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=FFB400" alt="HackerRank" /></a>
 
 </div>
 
 <br/>
 
-## ▌ LET'S CONNECT
+<details>
+<summary><b>🔥 &nbsp;The Backend Commandments</b> &nbsp;(click to expand)</summary>
+
+<br/>
+
+1. Thou shalt keep thy APIs stateless.
+2. Thou shalt sign thy JWTs, and never trust an unsigned one.
+3. Thou shalt never trust client input, not even from thyself.
+4. Thou shalt blame CORS first, and investigate second.
+5. Thou shalt remove every `console.log`. Eventually.
+
+</details>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb400,100:ff5a1f" width="100%" alt="" /></div>
+
+<br/>
+
+## 📫 &nbsp;Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/m-sai-dinesh"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/m-sai-dinesh"><img src="https://img.shields.io/badge/LinkedIn-FF5A1F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:saidineshm24@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:saidineshm24@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FF5A1F" alt="Email" /></a>
 &nbsp;&nbsp;
-<a href="https://sai-dinesh.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://sai-dinesh.dev"><img src="https://img.shields.io/badge/Portfolio-FF5A1F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/sai_dineshhhhh"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://instagram.com/sai_dineshhhhh"><img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=FFB400" alt="Instagram" /></a>
 
 <br/><br/>
 
-<sub>OPEN TO BACKEND ROLES &nbsp;/&nbsp; ALWAYS UP FOR A GOOD SYSTEM DESIGN DISCUSSION</sub>
+<sub>Always up for a good system design discussion &nbsp;•&nbsp; Say hi, I reply faster than my CI pipeline</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:ffb400,55:ff5a1f,100:0d0d0d&section=footer&reversal=true" width="100%" alt="Footer" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" width="100%" alt="Footer" />
